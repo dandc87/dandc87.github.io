@@ -24,7 +24,7 @@ style = "github-dark"
   info = "Seasoned Android Engineer"
   description = "Adam Koski's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "/images/avatar.jpg"
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
